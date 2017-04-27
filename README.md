@@ -1,1 +1,2 @@
 # knowledge_summary
+看到一些文章，有的做了summary，有的出于需要做了ppt，主要machine learning相关的，放在这儿保存
